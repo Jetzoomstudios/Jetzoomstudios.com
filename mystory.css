@@ -2,38 +2,32 @@ body {
     background-color: lightslategrey;
 }
 
-
-
-h1{
-    color:aqua
-
+h1 {
+    color: aqua;
 }
-p{
-    color:blueviolet;
+
+p {
+    color: blueviolet;
     font-size: 1rem;
     width: 500px;
 }
 
-h2{
-    color:darkslategrey
+h2 {
+    color: darkslategrey;
 }
 
-h3{
-    color:red
+h3 {
+    color: red;
 }
 
-h4{
-    color:violet
+h4 {
+    color: violet;
 }
 
-h5{
-    color:blue
+h5 {
+    color: blue;
 }
 
-h6{
-    color:blueviolet
-}
-
-h7{
-    color:blueviolet
+h6 {
+    color: blueviolet;
 }
